@@ -1,0 +1,27 @@
+c:\users\64bitm\documents\visual studio 2015\Projects\WheelSpinner\WheelSpinner\bin\Debug\WheelSpinner.exe.config
+c:\users\64bitm\documents\visual studio 2015\Projects\WheelSpinner\WheelSpinner\bin\Debug\WheelSpinner.exe
+c:\users\64bitm\documents\visual studio 2015\Projects\WheelSpinner\WheelSpinner\bin\Debug\WheelSpinner.pdb
+c:\users\64bitm\documents\visual studio 2015\Projects\WheelSpinner\WheelSpinner\obj\Debug\WheelSpinner.csprojResolveAssemblyReference.cache
+c:\users\64bitm\documents\visual studio 2015\Projects\WheelSpinner\WheelSpinner\obj\Debug\MainWindow.g.cs
+c:\users\64bitm\documents\visual studio 2015\Projects\WheelSpinner\WheelSpinner\obj\Debug\App.g.cs
+c:\users\64bitm\documents\visual studio 2015\Projects\WheelSpinner\WheelSpinner\obj\Debug\WheelSpinner_MarkupCompile.cache
+c:\users\64bitm\documents\visual studio 2015\Projects\WheelSpinner\WheelSpinner\obj\Debug\WheelSpinner_MarkupCompile.lref
+c:\users\64bitm\documents\visual studio 2015\Projects\WheelSpinner\WheelSpinner\obj\Debug\MainWindow.baml
+c:\users\64bitm\documents\visual studio 2015\Projects\WheelSpinner\WheelSpinner\obj\Debug\WheelSpinner.g.resources
+c:\users\64bitm\documents\visual studio 2015\Projects\WheelSpinner\WheelSpinner\obj\Debug\WheelSpinner.Properties.Resources.resources
+c:\users\64bitm\documents\visual studio 2015\Projects\WheelSpinner\WheelSpinner\obj\Debug\WheelSpinner.csproj.GenerateResource.Cache
+c:\users\64bitm\documents\visual studio 2015\Projects\WheelSpinner\WheelSpinner\obj\Debug\WheelSpinner.exe
+c:\users\64bitm\documents\visual studio 2015\Projects\WheelSpinner\WheelSpinner\obj\Debug\WheelSpinner.pdb
+c:\users\64bitm\documents\visual studio 2015\Projects\WheelSpinner\WheelSpinner\bin\Debug\Resources\star.png
+c:\users\64bitm\documents\visual studio 2015\Projects\WheelSpinner\WheelSpinner\bin\Debug\Resources\spinner.png
+C:\Users\Administrator\Desktop\WheelSpinner (스피너 프로그램)-20170623T123917Z-001\WheelSpinner (스피너 프로그램)\2017-06-23 (rev1)\WheelSpinner\WheelSpinner\bin\Debug\WheelSpinner.exe.config
+C:\Users\Administrator\Desktop\WheelSpinner (스피너 프로그램)-20170623T123917Z-001\WheelSpinner (스피너 프로그램)\2017-06-23 (rev1)\WheelSpinner\WheelSpinner\bin\Debug\WheelSpinner.exe
+C:\Users\Administrator\Desktop\WheelSpinner (스피너 프로그램)-20170623T123917Z-001\WheelSpinner (스피너 프로그램)\2017-06-23 (rev1)\WheelSpinner\WheelSpinner\bin\Debug\WheelSpinner.pdb
+C:\Users\Administrator\Desktop\WheelSpinner (스피너 프로그램)-20170623T123917Z-001\WheelSpinner (스피너 프로그램)\2017-06-23 (rev1)\WheelSpinner\WheelSpinner\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\WheelSpinner (스피너 프로그램)-20170623T123917Z-001\WheelSpinner (스피너 프로그램)\2017-06-23 (rev1)\WheelSpinner\WheelSpinner\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\WheelSpinner (스피너 프로그램)-20170623T123917Z-001\WheelSpinner (스피너 프로그램)\2017-06-23 (rev1)\WheelSpinner\WheelSpinner\obj\Debug\WheelSpinner_MarkupCompile.cache
+C:\Users\Administrator\Desktop\WheelSpinner (스피너 프로그램)-20170623T123917Z-001\WheelSpinner (스피너 프로그램)\2017-06-23 (rev1)\WheelSpinner\WheelSpinner\obj\Debug\WheelSpinner_MarkupCompile.lref
+C:\Users\Administrator\Desktop\WheelSpinner (스피너 프로그램)-20170623T123917Z-001\WheelSpinner (스피너 프로그램)\2017-06-23 (rev1)\WheelSpinner\WheelSpinner\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\WheelSpinner (스피너 프로그램)-20170623T123917Z-001\WheelSpinner (스피너 프로그램)\2017-06-23 (rev1)\WheelSpinner\WheelSpinner\obj\Debug\WheelSpinner.g.resources
+C:\Users\Administrator\Desktop\WheelSpinner (스피너 프로그램)-20170623T123917Z-001\WheelSpinner (스피너 프로그램)\2017-06-23 (rev1)\WheelSpinner\WheelSpinner\obj\Debug\WheelSpinner.exe
+C:\Users\Administrator\Desktop\WheelSpinner (스피너 프로그램)-20170623T123917Z-001\WheelSpinner (스피너 프로그램)\2017-06-23 (rev1)\WheelSpinner\WheelSpinner\obj\Debug\WheelSpinner.pdb
