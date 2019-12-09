@@ -1,10 +1,7 @@
 # - WheelSpinner
-- 마우스 휠로 튕기는 WheelSpinner 프로그램입니다. 스피너에 마우스를 갖다놓고 휠을 톡 튕기시면 돌아갑니다.
+- The simple WheelSpinner program that bounces with the mouse wheel. Hover over the spinner and flick the wheel to spin.
 
-
-# - Why Make this ?
-- 피젯 스피너가 너무 비싸서(..) 없으면 만들면 된다라는 마음가짐으로 저만의 스피너를 가지고 싶어서 제작하였습니다.
 
 # - Version History
 > V1.0 :
->  - 휠을 튕기면 돌아가는 기능
+>  - first make and commit to github.
